@@ -20,9 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 ![](https://i.imgur.com/Rlx9ZnW.gif)
 I know this link is currently not working due to a bug on GitHub.
-link: https://i.imgur.com/Rlx9ZnW.gif
+link: https://i.imgur.com/kooTlPe.gif
 This is the exact code that I was using in READ.me file to display the gif.
--> `![](https://i.imgur.com/Rlx9ZnW.gif)`
+-> `![](https://i.imgur.com/kooTlPe.gif)`
 
 
 
