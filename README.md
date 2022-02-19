@@ -21,9 +21,6 @@ link: https://i.imgur.com/iqikEB0.gif
 This is the exact code that I was using in READ.me file to display the gif.
 -> `![](https://i.imgur.com/iqikEB0.gif)`
 
-
-
-
 ### Notes
 Describe any challenges encountered while building the app.
 
@@ -46,8 +43,6 @@ I know this link is currently not working due to a bug on GitHub.
 link: https://i.imgur.com/kooTlPe.gif
 This is the exact code that I was using in READ.me file to display the gif.
 -> `![](https://i.imgur.com/kooTlPe.gif)`
-
-
 
 ### Notes
 Had a couple of hiccups due to misspellings with the outlet and calling onto them.
